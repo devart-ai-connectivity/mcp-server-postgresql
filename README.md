@@ -57,6 +57,28 @@ TBA
 
 And other MCP-compatible AI tools.
 
+## Typical use cases
+
+Devart MCP Server for PostgreSQL is especially useful in workflows where PostgreSQL is the primary operational or analytical data source.
+
+- **Self-service analytics on PostgreSQL data**  
+  Let analysts, product managers, sales, finance, and operations teams ask natural-language questions without writing SQL.
+
+- **Developer copilot for production PostgreSQL databases**  
+  Help developers and DBAs investigate real data, inspect schemas, explore joins, and troubleshoot anomalies faster.
+
+- **Support and customer operations investigation**  
+  Let support teams quickly check orders, subscriptions, payments, statuses, and account history stored in PostgreSQL.
+
+- **Schema exploration and reverse engineering**  
+  Use AI to explain tables, relationships, and business logic in legacy or poorly documented PostgreSQL databases.
+
+- **Ad-hoc reporting and internal analysis**  
+  Generate one-off reports, investigate trends, and answer business questions directly from PostgreSQL without building a dashboard first.
+
+- **Secure on-premises AI access to PostgreSQL**  
+  Keep PostgreSQL data inside your infrastructure while giving AI tools a controlled path to work with real business data.
+
 ## Licensing and activation
 
 Devart MCP Server for PostgreSQL is distributed as a free single-source MCP Server.
