@@ -29,6 +29,8 @@ Devart MCP Server for PostgreSQL is designed for teams that need practical, secu
 
 Devart MCP Server for PostgreSQL sits between your AI tool and your PostgreSQL database.
 
+![Devart MCP Server architecture](https://github.com/devart-ai-connectivity/.github/blob/main/assets/mcp-server-architecture.png)
+
 1. An AI tool sends a natural-language request to the MCP server.
 2. The MCP server processes the request and generates SQL.
 3. The Devart ODBC Driver for PostgreSQL translates and executes the request against PostgreSQL.
