@@ -1,3 +1,5 @@
+[![Devart MCP Server for PostgreSQL](https://github.com/devart-ai-connectivity/.github/blob/main/assets/mcp-server-postgresql.png?raw=true)](https://www.devart.com/mcp/postgresql/)
+
 # Devart MCP Server for PostgreSQL
 
 Self-hosted MCP server for secure AI access to PostgreSQL.
