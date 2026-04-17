@@ -101,4 +101,4 @@ See the product page and documentation for the latest installation and activatio
 
 - [Universal MCP Server](https://github.com/devart-ai-connectivity/mcp-server-universal)
 - [ODBC Driver for PostgreSQL](https://www.devart.com/odbc/postgresql/)
-- [dotConnect ADO.NET Providers](https://www.devart.com/dotconnect/)
+- [dotConnect ADO.NET data provider for PostgreSQL](https://www.devart.com/dotconnect/postgresql/)
