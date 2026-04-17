@@ -1,6 +1,6 @@
 [![Devart MCP Server for PostgreSQL](https://github.com/devart-ai-connectivity/.github/blob/main/assets/mcp-server-postgresql.png?raw=true)](https://www.devart.com/mcp/postgresql/)
 
-30 days free trial • Built on Devart ODBC Driver for PostgreSQL • Claude · Copilot · JetBrains
+Built on Devart ODBC Driver for PostgreSQL • Claude · Copilot · JetBrains
 
 # Devart MCP Server for PostgreSQL
 
@@ -8,7 +8,7 @@ Self-hosted MCP server for secure AI access to PostgreSQL.
 
 Devart MCP Server for PostgreSQL is a middleware component that sits between your AI tool and PostgreSQL through the corresponding Devart ODBC Driver. With on-premises deployment, it helps keep data inside your infrastructure and reduces the need to build and maintain a custom MCP integration from scratch.
 
-[⬇ Download Devart MCP Server for PostgreSQL](https://www.devart.com/mcp/postgresql/) — 30-day free trial available | [Documentation](https://docs.devart.com/)
+[⬇ Download Devart MCP Server for PostgreSQL](https://www.devart.com/mcp/postgresql/) | [Documentation](https://docs.devart.com/)
 
 ## Why Devart MCP Server for PostgreSQL
 
@@ -38,8 +38,8 @@ Devart MCP Server for PostgreSQL sits between your AI tool and your PostgreSQL d
 ## Quick start
 
 1. Install Devart MCP Server for PostgreSQL.
-2. Install and activate the required [Devart ODBC Driver for PostgreSQL](https://www.devart.com/odbc/postgresql/).
-3. Launch the product and configure your PostgreSQL connection.
+2. Install the required [Devart ODBC Driver for PostgreSQL](https://www.devart.com/odbc/postgresql/).
+3. Configure your PostgreSQL connection in the product UI.
 4. Connect your AI tool using the integration guide for your tool.
 5. Run your first natural-language query.
 
@@ -65,11 +65,11 @@ And other MCP-compatible AI tools.
 
 ## Licensing and activation
 
-Devart MCP Server for PostgreSQL requires the corresponding Devart ODBC Driver for PostgreSQL to establish a connection.
+Devart MCP Server for PostgreSQL is distributed as a free single-source MCP Server.
 
-- Devart MCP Server for PostgreSQL: activation details are documented separately
-- Devart ODBC Driver for PostgreSQL: required for connectivity
-- A 30-day free trial is available for the required driver
+To establish a real connection to PostgreSQL, the server requires the corresponding [Devart ODBC Driver for PostgreSQL](https://www.devart.com/odbc/postgresql/), which is a paid product.
+
+A 30-day free trial is available for the Devart ODBC Driver for PostgreSQL.
 
 See the product page and documentation for the latest installation and activation details.
 
