@@ -47,19 +47,11 @@ Devart MCP Server for PostgreSQL sits between your AI tool and your PostgreSQL d
 
 TBA
 
-## Connection configuration
-
-Devart MCP Server for PostgreSQL is designed for a focused single-source setup.
-
-Configure a PostgreSQL connection in the product UI and use the corresponding Devart ODBC Driver for PostgreSQL underneath.
-
-More detailed setup guidance will be added to the documentation.
-
 ## Supported AI tools
 
-![Claude Desktop](https://github.com/devart-ai-connectivity/.github/blob/main/assets/claude-desktop.png?raw=true)
-![GitHub Copilot](https://github.com/devart-ai-connectivity/.github/blob/main/assets/github-copilot.png?raw=true)
-![JetBrains IDEs](https://github.com/devart-ai-connectivity/.github/blob/main/assets/jetbrains.png?raw=true)
+[![Claude Desktop](https://img.shields.io/badge/Claude_Desktop-supported-5B4FE8?logo=anthropic&logoColor=white)](https://docs.devart.com/)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-supported-0078D4?logo=github&logoColor=white)](https://docs.devart.com/)
+[![JetBrains IDEs](https://img.shields.io/badge/JetBrains_IDEs-supported-FE2857?logo=jetbrains&logoColor=white)](https://docs.devart.com/)
 
 And other MCP-compatible AI tools.
 
